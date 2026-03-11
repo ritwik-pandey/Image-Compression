@@ -1,0 +1,6 @@
+build/
+*.huf
+sample*
+.DS_Store
+*.o
+huffman_image_compressor
